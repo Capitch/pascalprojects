@@ -1,7 +1,7 @@
 Program CalculadoraAvancada;
 
 var num1, num2, oper1, oper2, oper3, oper4:real;
-		escolha:integer;
+    escolha:integer;
 
 Begin
 
