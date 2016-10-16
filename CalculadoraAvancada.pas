@@ -28,7 +28,7 @@ Begin
   oper3 := num1 * num2;
   oper4 := num1 / num2;
 	
-	writeln('==============================');
+  writeln('==============================');
 	
 	if (escolha = 1) then
 	  writeln('Soma: ',oper1:3:2)
@@ -42,10 +42,10 @@ Begin
 			  if (escolha = 4) then
 				  writeln('Divisão: ',oper4:3:2);
 					
-	writeln('==============================');
-	writeln('Pressione uma TECLA para sair');
-	writeln('==============================');						  	  
+  writeln('==============================');
+  writeln('Pressione uma TECLA para sair');
+  writeln('==============================');						  	  
   
-	readln;
+  readln;
 	                      
 End.
