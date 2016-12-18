@@ -1,3 +1,6 @@
+///--//
+// Programa autoria de Miguel N.. Licensiado sobre a Apache License 2.0.
+
 Program CalculadoraCientifica;
 Uses Math;
 const pi = 3.1416;
